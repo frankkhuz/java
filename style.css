@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.b{
+    height: 20rem;
+    width: 30rem;
+    display: flex;
+    justify-content: space-between;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.three{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .one{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 15rem;
+            /* border: 1px solid black; */
+    
+    }
+    input{
+        margin-bottom: 1.8rem;
+    }
